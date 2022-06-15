@@ -3,7 +3,6 @@
 # This is an implementation of RSA public key cryptography.
 import random
 import math
-from decimal import Decimal
 
 # Select p and q, such that both are prime and p!=q.
 
