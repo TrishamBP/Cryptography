@@ -89,4 +89,4 @@ print("Your Ciphertext is: ",C)
 # Decryption process.
 C_exponential = C**d
 M = C_exponential % n # Original Message
-print("Your original message is: ", M)
+print("Your original message after decryption is: ", M)
