@@ -1,7 +1,7 @@
 # Author-Trisham Bharat Patil
 # License-Free
 # DES.
-# Hexadecimal to binary conversion
+# Hexadecimal to binary conversion.
 def hex2bin(s):
     mp = {'0': "0000",
           '1': "0001",
@@ -25,7 +25,7 @@ def hex2bin(s):
     return bin
 
 
-# Binary to hexadecimal conversion
+# Binary to hexadecimal conversion.
 def bin2hex(s):
     mp = {"0000": '0',
           "0001": '1',
