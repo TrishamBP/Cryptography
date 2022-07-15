@@ -1,5 +1,5 @@
 # Cryptography
-<img src="Crypto2.png" height=1000>
+<img src="Crypto2.png" height=500>
 
 Cryptography is a method of developing techniques and protocols to prevent a
 third party from accessing and gaining knowledge of the data from the private messages during a communication process.
